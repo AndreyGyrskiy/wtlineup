@@ -4,7 +4,7 @@ const { Client, Events, GatewayIntentBits, EmbedBuilder, ActionRowBuilder,
 } = require("discord.js");
 const fetch = require("cross-fetch");
 
-const SOLAWKID = "147774917071339520";
+const SOLAWKID = "777944648064172032";
 let STATUSMSGIDS;
 let REFRESHTIME;
 const VEHICLESREFRESHTIME = 8 * 60 * 60 * 1000;
